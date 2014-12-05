@@ -1,7 +1,7 @@
-openshift-craftbukkit-quickstart
+Spigot automatic download for OpenShift
 ================================
 
-A quickstart Minecraft (Craftbukkit) server that will automatically download latest craftbukkit development build 
+A quickstart Minecraft (Craftbukkit) server that will automatically download latest spigot development build 
 and start it.
 
 Create the Openshift DIY Application
