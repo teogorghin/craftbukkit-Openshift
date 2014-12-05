@@ -10,7 +10,7 @@ Create the Openshift DIY Application
 1. Create a DIY application using this git repo as source code:
 
    ```bash
-   $ rhc app-create craftbukkit diy --from-code=git://github.com/jyeary/openshift-craftbukkit-quickstart.git
+   $ rhc app-create craftbukkit diy --from-code=git://github.com/teogorghin/craftbukkit-Openshift.git
    ```
 
 2. Create a port-forward from your local machine to your remote server:
