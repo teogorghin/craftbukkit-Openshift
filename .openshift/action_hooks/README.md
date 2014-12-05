@@ -1,3 +1,3 @@
-For information about action hooks supported by OpenShift, consult the documentation:
+For more information and troubles please contact:
 
-http://openshift.github.io/documentation/oo_user_guide.html#the-openshift-directory
+ teodor.gorghe - Skype
