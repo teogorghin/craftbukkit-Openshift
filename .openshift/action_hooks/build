@@ -1,12 +1,12 @@
 #!/bin/bash
 SERVER_PROPERTIES=server.properties
-CRAFTBUKKIT_SERVER_JAR=craftbukkit-dev.jar
+CRAFTBUKKIT_SERVER_JAR=spigot.jar
 
 set -x 
 
 cd $OPENSHIFT_DATA_DIR
 
 if [ ! -e "$CRAFTBUKKIT_SERVER_JAR" ]; then
-	wget "http://indungo.tk/downloads/spigot.jar" -O $CRAFTBUKKIT_SERVER_JAR
+	wget "http://indungo.tk/downloads/1.8.3/spigot.jar" -O $CRAFTBUKKIT_SERVER_JAR
 fi
 
